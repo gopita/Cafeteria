@@ -1,2 +1,2 @@
 # Cafeteria
-Cafeteria's Bill Project in C
+Project I did for university in C language that gets user orders and save them in a text file.
